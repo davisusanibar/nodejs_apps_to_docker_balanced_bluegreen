@@ -1,5 +1,5 @@
-# nodejs_apps_to_docker_balanced_bluegreen
-To tes blue green deployment with docker compose
+# Docker compose + Consul (core & template) + Registrator + Nginx + NodeJs + Blue/Green deployment
+To test blue green deployment with docker compose
 
 
 We add this extra configuration:
